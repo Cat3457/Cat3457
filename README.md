@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Cat3457
+- 👀 I’m interested in making games, drawing and stuff
+- 🌱 I’m currently learning how to translate krunker to other languages
