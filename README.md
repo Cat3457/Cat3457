@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Cat3457
-- 👀 I’m interested in making games, drawing and stuff
-- 🌱 I'm currently learning how to actualy program in some languages that are gonna be useful to know
+
