@@ -37,13 +37,13 @@ Some github stats lol:
 
 Socials: 
 
-[Main Yt Channel](https://www.youtube.com/@Cat3457YT)
+My [Main Yt Channel](https://www.youtube.com/@Cat3457YT),
 
-[Minecraft clips channel](https://www.youtube.com/@MinecraftClips1212)
+My [Minecraft clips channel](https://www.youtube.com/@MinecraftClips1212),
 
-[Website](cat3457.github.io)
+My [Website](cat3457.github.io),
 
-[Instagram](https://www.instagram.com/marin3457_/)
+My [Instagram](https://www.instagram.com/marin3457_/).
 
 
 
