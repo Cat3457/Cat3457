@@ -1,6 +1,6 @@
 ![Screenshot (756)](https://github.com/Cat3457/Cat3457/assets/82710010/15fede0e-bfd8-493f-90a3-869c08a2aec6)
 
-- 👋 Hi, I’m @Cat3457 or Marin.
+Hi there! I'm [Marin](https://cat3457.github.io) or [Cat3457](https://github.com/Cat3457)!
 
 I'm a Programmer, Artist, amateur photographer and I play the piano and violin!
 
@@ -34,6 +34,20 @@ Some github stats lol:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cat3457&show_icons=true&theme=react)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cat3457&layout=compact&theme=react)
+
+Socials: 
+
+[Main Yt Channel](https://www.youtube.com/@Cat3457YT)
+
+[Minecraft clips channel](https://www.youtube.com/@MinecraftClips1212)
+
+[Website](cat3457.github.io)
+
+[Instagram](https://www.instagram.com/marin3457_/)
+
+
+
+
 
 
 Operating system: 
