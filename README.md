@@ -43,7 +43,6 @@ My [Minecraft clips channel](https://www.youtube.com/@MinecraftClips1212),
 
 My [Website](cat3457.github.io),
 
-My [Instagram](https://www.instagram.com/marin3457_/).
 
 
 
