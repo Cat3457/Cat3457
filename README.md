@@ -1,4 +1,4 @@
-<img src="https://github.com/Cat3457/Cat3457/assets/82710010/0e8e5ae5-c01f-4d79-ba06-da74a6da3b24" alt=”my banner”>
+![Screenshot (756)](https://github.com/Cat3457/Cat3457/assets/82710010/15fede0e-bfd8-493f-90a3-869c08a2aec6)
 
 - 👋 Hi, I’m @Cat3457 or Marin.
 
@@ -19,8 +19,20 @@ IDE's I use:
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 
+Programs's I use for different uses: 
+
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 
+
+Operating system: 
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 
