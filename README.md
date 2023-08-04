@@ -4,7 +4,7 @@
 
 I'm a Programmer, Artist, amateur photographer and I play the piano and violin!
 
-Programming languages I use: 
+Programming languages I currently know: 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,7 +27,13 @@ Programs's I use for different uses:
 ![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+Some github stats lol:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cat3457&show_icons=true&theme=react)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cat3457&layout=compact&theme=react)
 
 
 Operating system: 
