@@ -1,5 +1,4 @@
-![image](https://github.com/Cat3457/Cat3457/assets/82710010/428581df-c58c-4d86-995d-fa837f7aaef7)
-
+![image](https://github.com/Cat3457/Cat3457/assets/82710010/d162b75a-cac3-4178-a179-98ccc1f8905b)
 
 Hi there! I'm [Marin](https://github.com/Cat3457).
 
