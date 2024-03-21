@@ -30,7 +30,7 @@ My [Main Yt Channel](https://www.youtube.com/@Cat3457YT),
 
 My [Minecraft clips channel](https://www.youtube.com/@MinecraftClips1212),
 
-My [Website](https://www.cat3457.github.io),
+My [Website](https://cat3457.github.io),
 
 
 
